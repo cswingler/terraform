@@ -226,7 +226,7 @@ of several sub-resources - these resources are laid out below.
 
 The arguments for `default_cache_behavior` are the same as for
 [`cache_behavior`](#cache-behavior-arguments), except for the `path_pattern`
-argument is not required.
+argument is omitted.
 
 #### Logging Config Arguments
 
